@@ -12,7 +12,7 @@ opt.UseMySQL(cadena));
 builder.Services.AddControllers();
 
 
-    //opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))); esto es para SQLSERVER
+//opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))); //esto es para SQLSERVER
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

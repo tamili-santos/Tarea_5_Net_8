@@ -265,3 +265,4 @@ C:\Users\santo\OneDrive\Escritorio\UMG\PROGRA II\ApiEmpresa\bin\Debug\net8.0\run
 C:\Users\santo\OneDrive\Escritorio\UMG\PROGRA II\ApiEmpresa\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\santo\OneDrive\Escritorio\UMG\PROGRA II\ApiEmpresa\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\santo\OneDrive\Escritorio\UMG\PROGRA II\ApiEmpresa\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\santo\OneDrive\Escritorio\UMG\PROGRA II\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.sourcelink.json
